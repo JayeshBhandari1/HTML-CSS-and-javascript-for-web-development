@@ -6,4 +6,5 @@ This repository contains my solutions to the assignments of the Coursera course
 ## Assignments
 
 ### Module 2
-* [Solution](https://JayeshBhandari1.github.io/html-css-and-javascript-for-web-development/module2/)
+* [Solution](https://jayeshbhandari1.github.io/html-css-and-javascript-for-web-development/module2/)
+
